@@ -23,15 +23,10 @@ I'm trying to learn new things, along with mastering the stuff I already know!! 
 - 🤔 I’m looking for help with Machine Learning and Data Science!
 - 💬 Ask me about my codes, Python
 - ⚡ Fun fact: I love to draw!
+- 📫 How to reach me: [Twitter](https://twitter.com/dj_harshit_) or [Email](mailto:admin@djharshit.me)
 
 
 ![Harshit M's github stats](https://github-readme-stats.vercel.app/api?username=djharshit&show_icons=true&theme=highcontrast&include_all_commits=true)
 
 ### Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djharshit)
-
-### Pinned Repositories
-
-| | |
-|:---|:---|
-|[![Pin-1 Card](https://github-readme-stats.vercel.app/api/pin/?username=djharshit&repo=pytorr)](https://github.com/djharshit/pytorr)|[![Pin-2 Card](https://github-readme-stats.vercel.app/api/pin/?username=djharshit&repo=exam-form-autofill)](https://github.com/djharshit/exam-form-autofill)|
