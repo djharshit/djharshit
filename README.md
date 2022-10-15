@@ -23,7 +23,7 @@ I'm trying to learn new things, along with mastering the stuff I already know!! 
 - 🤔 I’m looking for help with Machine Learning and Data Science!
 - 💬 Ask me about my codes, Python
 - ⚡ Fun fact: I love to draw!
-- 📫 How to reach me: [Twitter](https://twitter.com/dj_harshit_) or [Email](mailto:admin@djharshit.me)
+- 📫 How to reach me: [Twitter](https://twitter.com/dj_harshit_) or [Email](mailto:harshit@jecjabalpur.ac.in)
 
 
 ![Harshit M's github stats](https://github-readme-stats.vercel.app/api?username=djharshit&show_icons=true&theme=highcontrast&include_all_commits=true)
