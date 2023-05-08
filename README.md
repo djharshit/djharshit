@@ -19,6 +19,7 @@ I'm trying to learn new things, along with mastering the stuff I already know!! 
 ![card 1](https://github-readme-stats.vercel.app/api?username=djharshit&show_icons=true&theme=transparent&include_all_commits=true&border_color=2a2f37)
 
 ![card 2](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=djharshit&theme=github_dark)
+
 ## GitHub Stats
 
 <p align="center">
